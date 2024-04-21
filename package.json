@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-auto-track",
+  "version": "1.0.0",
+  "description": "an babel plugin that for auto track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "babel-plugin",
+    "track"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frylstar/babel-plugin-auto-track"
+  },
+  "author": "frylstar <frylstar@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.4"
+  },
+  "dependencies": {
+    "@babel/helper-module-imports": "^7.24.3"
+  }
+}

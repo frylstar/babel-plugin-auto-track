@@ -1,0 +1,9 @@
+/.idea
+.DS_Store
+/node_modules
+/lib
+/*.log
+/*.log.*
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
